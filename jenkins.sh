@@ -1,3 +1,4 @@
+yum install java-1.8.0-openjdk maven -y
 #STEP-1: INSTALLING GIT 
 yum install git  -y
 
